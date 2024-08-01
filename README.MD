@@ -1,6 +1,3 @@
-![enter image description here](https://i.imgur.com/vv80AvH.png)
-
-![MarcaPonto](https://i.imgur.com/24xg3xD.jpg)
 
 # Controle de ponto online
 
